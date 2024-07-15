@@ -1,0 +1,4 @@
+.env
+node_modules
+notes.txt
+google_sheets_auth.json
