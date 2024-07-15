@@ -1,8 +1,8 @@
 A telegram bot that asks introspection questions
 
-![image](https://github.com/user-attachments/assets/2680d1f5-b89a-4771-b8c4-79b8ec60540f)
+![image](https://github.com/user-attachments/assets/02036e56-e2fa-4d24-9a2b-6c95dac395c2)
 
-it can even give advice using chatgtp
+it can even give advice using chatgtp:
 
 ![image](https://github.com/user-attachments/assets/48fe7ebf-1d7f-430d-bf35-f3e5a7faf869)
 
