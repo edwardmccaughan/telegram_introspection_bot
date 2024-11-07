@@ -9,6 +9,6 @@ it can even give advice using chatgtp:
 
 As research for a future project, it stores data in google sheets
 
-(TLDR: would not recommend it as a database alternative - since it lacks just about every common DB feature, but can be useful as a front end for data input by humans, but has potential as a niche UI for when you also want the data to be editable by humans via the google sheets site)
+(TLDR: would not recommend it as a database alternative - since it lacks just about every common DB feature, but has potential as a niche UI for when you also want the data to be editable by humans via the google sheets site)
 
 ![image](https://github.com/user-attachments/assets/fcb81247-72fc-413e-b2c1-0a61d7994799)
